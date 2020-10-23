@@ -12,7 +12,7 @@ void setup()
 }   
 void draw()   
 {   
-  background(200);
+  background(0);
   for (int i = 0; i < maya.length; i++) //shows each bacteria
   {
     maya[i].show();
